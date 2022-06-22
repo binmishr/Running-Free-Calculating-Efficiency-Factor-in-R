@@ -1,6 +1,5 @@
 # Running-Free-Calculating-Efficiency-Factor-in-R
 
-The details of the codeset and plots are included in the attached Adobe Acrobat reader (.pdf) file in this repository. 
-You need to download the same to view the contents. There are referrals to other contents in BLUE colour also to follow.
+The details of the codeset and plots are included in the attached Microsoft Word Document (.docx) file in this repository. 
+You need to view the file in "Read Mode" to see the contents properly after downloading the same.
 
-New model to calculate GAP (Grade Adjusted Pace) documentation: https://medium.com/strava-engineering/an-improved-gap-model-8b07ae8886c3
